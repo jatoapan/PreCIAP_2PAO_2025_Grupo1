@@ -1,12 +1,5 @@
 # 🚗 Used Car Price Prediction
 
-<p align="center">
-  https://img.shields.io/badge/Python-3.10-blue.svg
-  https://img.shields.io/badge/Notebook-Google_Colab-orange.svg
-  https://img.shields.io/badge/Status-In_Progress-yellow.svg
-</p>
-
----
 
 ## 🎯 Project Overview
 
@@ -80,8 +73,11 @@ The dataset is located in the `data/` folder and contains:
 ## 📂 Project Structure
 
 ├── data/
+
 │   └── car_prediction_data.csv       # Dataset
+
 ├── notebook.ipynb                    # Main analysis and modeling notebook
+
 ├── README.md                         # Project documentation
 
 
